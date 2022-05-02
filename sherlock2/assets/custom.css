@@ -1,0 +1,60 @@
+.proxy-image {
+    width: 50%;
+    height:25%;
+
+    object-fit: cover;
+    overflow: hidden;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+
+.time-select {
+    width: 10rem;
+    height:25%;
+    color: red;
+
+
+}
+
+
+
+.selects-row{
+    float: left;
+    width:10rem;
+    margin-right: 10px;
+    margin-top:10px
+
+}
+
+
+
+.config-menu{
+
+    margin-right: 10px;
+
+
+}
+
+.margin-top{
+    margin-top:15px;
+
+}
+
+
+.margin-both{
+    margin-top:15px;
+    margin-bottom: 15px;
+
+}
+
+.nav-right{
+    width: 10rem;
+    height:25%;
+    color: red;
+}
+
+
+.container{
+    margin:0
+}
